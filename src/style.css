@@ -1,0 +1,8 @@
+.tasks {
+  list-style: none;
+}
+.tasks li {
+  background: #ddd;
+  padding: 5px 10px;
+  margin-bottom: 5px;
+}
